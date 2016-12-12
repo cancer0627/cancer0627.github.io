@@ -1,6 +1,6 @@
 {
   "name": "Cancer0627.GitHub.io",
   "tagline": "cuichen的博客",
-  "body": "# cancer0627.github.io\r\n\r\n***\r\n\r\n## 静态页面模仿\r\n1. 豆瓣首页[→→](https://github.com/cancer0627/douban)\r\n2. 豆瓣fm（旧版）[→→](https://github.com/cancer0627/douban-fm)\r\n\r\n## HTML5项目\r\n1. 网页视频播放器（利用video标签及原生JavaScript）[→→](https://github.com/cancer0627/cc-video-player)\r\n2. 音频可视化播放器（利用audio API、canvas）[→→](https://github.com/cancer0627/mini-audio-player)\r\n\r\n## 美妆商城电商网站\r\n利用HTML，CSS进行网页设计及布局，利用JavaScript实现网页动态效果，利用jQuery及node.js实现服务器的连接与搭建，数据库利用MySQL进行创建。代码详情请点击[→→](https://github.com/cancer0627/cosmetic_web)",
+  "body": "# cancer0627\r\n***\r\n\r\n## 静态页面模仿\r\n1. 豆瓣首页[→→](https://github.com/cancer0627/douban)\r\n2. 豆瓣fm（旧版）[→→](https://github.com/cancer0627/douban-fm)\r\n\r\n## HTML5项目\r\n1. 网页视频播放器（利用video标签及原生JavaScript）[→→](https://github.com/cancer0627/cc-video-player)\r\n2. 音频可视化播放器（利用audio API、canvas）[→→](https://github.com/cancer0627/mini-audio-player)\r\n\r\n## 美妆商城电商网站\r\n利用HTML，CSS进行网页设计及布局，利用JavaScript实现网页动态效果，利用jQuery及node.js实现服务器的连接与搭建，数据库利用MySQL进行创建。代码详情请点击[→→](https://github.com/cancer0627/cosmetic_web)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
